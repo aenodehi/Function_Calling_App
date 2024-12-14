@@ -1,0 +1,4 @@
+# write a function to generate password using python
+# what is my disk usage
+# what is the highest mountain in the world
+# what is the time in tehran 
