@@ -4,8 +4,14 @@ Demo function calling app.
 Function calling in Large Language Models is essential to provide it with the access to real time data, take actions on your behalf or perform computation. 
 Learn how to use Function Calling in your LLM application utilizing LangChain, Ollama and Streamlit!
 
-- `![App Screenshot 1](images/image1.png)`
-- `![App Screenshot 2](images/image2.png)`   
+## 📸 App Screenshots
+
+Below are the screenshots of the app in action:
+
+<p float="left">
+  <img src="./images/imag1.png" width="45%" />
+  <img src="./images/imag2.png" width="45%" />
+</p>   
 
 ## 🔨 Setting up locally
 
